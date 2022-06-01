@@ -1,0 +1,20 @@
++@font-face {
+  font-family: Gotham-Medium;
+  src: url(../fonts/gotham/Gotham-Medium.otf);
+}
+
+@font-face {
+  font-family: MONTSERRAT-ARABIC;
+  src: url(../fonts/MONTSERRAT/MONTSERRAT-ARABIC-BOLD.OTF);
+}
+
+
+@font-face {
+  font-family: MONTSERRAT-ARABIC-MEDIUM;
+  src: url(../fonts/MONTSERRAT/MONTSERRAT-ARABIC-MEDIUM.OTF);
+}
+
+@font-face {
+  font-family: Montserrat-Arabic-Regular;
+  src: url(../fonts/MONTSERRAT/Montserrat-Arabic-Regular.OTF);
+}
